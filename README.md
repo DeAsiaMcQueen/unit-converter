@@ -50,6 +50,7 @@ You can install these dependencies using:
 This project is licensed under the MIT License. Please look at the [LICENSE](LICENSE) file for details.
 ## Contributing
 We welcome contributions from the community! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines.
+When submitting a pull request, follow the steps outlined in our [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md).
 ## Code of Conduct
 This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 ## Changelog
