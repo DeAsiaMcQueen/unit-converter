@@ -14,12 +14,9 @@ A versatile unit converter that supports multiple types of conversions, includin
 - Extensible Design:
   - Easy to add more conversion factors or update existing ones.
 ## Screenshots
-![Conversion Type Selection](screenshots/dropdown-selection.png)
-*Selecting conversion types from the dropdown.*
-![Conversion Result](screenshots/conversion-result.png)
-*Displaying the conversion result.*
-![Currency Conversion](screenshots/currency-conversion.png)
-*Real-time currency conversion.*
+![Intital screen](UC-initialscreen.png)
+![Conversion Result](UC-conversionresult.png)
+![Currency Conversion](UC-currencyconversion.png)
 ## Requirements
 The following libraries are required to run the Unit Converter:
 - `tkinter`: This is used to build the graphical user interface.
@@ -53,6 +50,8 @@ You can install these dependencies using:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ## Contributing
 We welcome contributions from the community! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines.
+## Code of Conduct
+This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 ## Acknowledgments
 1. Open Exchange Rates provides to provide real-time currency exchange rates.
 2. Python Community: For maintaining libraries like tkinter and requests.
