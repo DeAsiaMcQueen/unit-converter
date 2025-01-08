@@ -47,11 +47,13 @@ You can install these dependencies using:
 3. Support for batch conversions (converting multiple values simultaneously)
 4. A responsive web-based version of the Unit Converter
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. Please look at the [LICENSE](LICENSE) file for details.
 ## Contributing
 We welcome contributions from the community! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines.
 ## Code of Conduct
 This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+## Changelog
+All notable changes to this project are documented in the [Changelog](CHANGELOG.md).
 ## Acknowledgments
 1. Open Exchange Rates provides to provide real-time currency exchange rates.
 2. Python Community: For maintaining libraries like tkinter and requests.
