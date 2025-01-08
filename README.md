@@ -14,7 +14,7 @@ A versatile unit converter that supports multiple types of conversions, includin
 - Extensible Design:
   - Easy to add more conversion factors or update existing ones.
 ## Screenshots
-![Intital screen](UC-initialscreen.png)
+![Intital screen](UC-initalscreen.png)
 ![Conversion Result](UC-conversionresult.png)
 ![Currency Conversion](UC-currencyconversion.png)
 ## Requirements
